@@ -10,5 +10,5 @@ int main(){
     Vector2* b = a; // This is copying the pointer.
     b->x = 2;
 
-    std:cin.get();
+    std::cin.get();
 }
